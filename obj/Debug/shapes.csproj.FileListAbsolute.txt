@@ -1,0 +1,15 @@
+C:\Users\kaisa\source\repos\shapes\shapes\bin\Debug\shapes.exe.config
+C:\Users\kaisa\source\repos\shapes\shapes\bin\Debug\shapes.exe
+C:\Users\kaisa\source\repos\shapes\shapes\bin\Debug\shapes.pdb
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes.csprojAssemblyReference.cache
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\MainWindow.g.cs
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\App.g.cs
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes_MarkupCompile.cache
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes_MarkupCompile.lref
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\MainWindow.baml
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes.g.resources
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes.Properties.Resources.resources
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes.csproj.GenerateResource.cache
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes.csproj.CoreCompileInputs.cache
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes.exe
+C:\Users\kaisa\source\repos\shapes\shapes\obj\Debug\shapes.pdb
